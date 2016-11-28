@@ -4,7 +4,7 @@ Temporary root for the galaxy s7 active.
 ## How
  * Clone this project and either 
    * build (run `make`) and place a custom `sepolicy` file in the root of the project, or 
-   * `tar xf` the [prebuilt binaries]() in the root of the project.
+   * `tar xf` the [prebuilt binaries](https://github.com/freddierice/trident/blob/prebuilt/prebuilt.tar.gz?raw=true) in the root of the project.
  * Open a separate terminal window and run `make log` to see logged output.
  * Run `make run` to start the exploit. You should see 
 ```
